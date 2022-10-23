@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🧰 Toolbox:
 
-C# .Net UNity Python CSS HTML JavaScript Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestocardenas&show_icons=true&theme=radical)](https://github.com/Ernestocardenas/github-readme-stats)
 
