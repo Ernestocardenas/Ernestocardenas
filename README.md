@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 C# .Net UNity Python CSS HTML JavaScript Java
 
-Anurag's GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ernestocardenas&show_icons=true&theme=radical)](https://github.com/Ernestocardenas/github-readme-stats)
 
-Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernestocardenas&theme=radical)](https://github.com/Ernestocardenas/github-readme-stats)
