@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernestocardenas&theme=radical)](https://github.com/Ernestocardenas/github-readme-stats)
 
 ## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=radical)
 
 ## Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Ernestocardenas)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ernestocardenas&theme=radical)
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Ernestocardenas/Python)
